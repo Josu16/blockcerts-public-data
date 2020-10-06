@@ -1,1 +1,1 @@
-{"@context":"https://w3id.org/openbadges/v2","id":"nododeeconomiasocial.com/blockcerts/revocation.json","type":"RevocationList","issuer":"nododeeconomiasocial.com/blockcerts/issuer.json","revokedAssertions":[]}
+{"@context":"https://w3id.org/openbadges/v2","id":"https://raw.githubusercontent.com/Josu16/blockcerts-public-data/main/revocation.json","type":"RevocationList","issuer":"https://raw.githubusercontent.com/Josu16/blockcerts-public-data/main/issuer.json","revokedAssertions":[]}
